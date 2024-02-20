@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is a mock API server created with Json-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch -p 8000 ./database/data.json"
+  },
+  "author": "Rafiul Islam",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
