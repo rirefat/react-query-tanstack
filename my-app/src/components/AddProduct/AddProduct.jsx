@@ -1,8 +1,8 @@
 
 const AddProduct = () => {
     return (
-        <div>
-            AddProduct
+        <div className='my-4 text-2xl'>
+            <h3>Add Product</h3>
         </div>
     );
 };
