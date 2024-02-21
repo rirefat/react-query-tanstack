@@ -23,7 +23,7 @@ const Products = () => {
             <div className='overflow-y-scroll h-[50vh]'>
                 {
                     products && products.map((product) => (
-                        <ProductCard key={product.id1} product={product} />
+                        <ProductCard key={product.id} product={product} />
                     ))
                 }
             </div>

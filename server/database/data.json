@@ -1,274 +1,301 @@
 {
-    "products": [
-        {
-            "id": "1",
-            "title": "iPhone 9",
-            "description": "An apple mobile which is nothing like apple",
-            "price": 549,
-            "rating": 4.69,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
-            "favourite": true
-        },
-        {
-            "id": "2",
-            "title": "iPhone X",
-            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-            "price": 899,
-            "rating": 4.44,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "3",
-            "title": "Samsung Universe 9",
-            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-            "price": 1249,
-            "rating": 4.09,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "4",
-            "title": "OPPOF19",
-            "description": "OPPO F19 is officially announced on April 2021.",
-            "price": 280,
-            "rating": 4.3,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
-            "favourite": true
-        },
-        {
-            "id": "5",
-            "title": "Huawei P30",
-            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-            "price": 499,
-            "rating": 4.09,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
-            "favourite": true
-        },
-        {
-            "id": "6",
-            "title": "MacBook Pro",
-            "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-            "price": 1749,
-            "rating": 4.57,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
-            "favourite": true
-        },
-        {
-            "id": "7",
-            "title": "Samsung Galaxy Book",
-            "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
-            "price": 1499,
-            "rating": 4.25,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "8",
-            "title": "Microsoft Surface Laptop 4",
-            "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-            "price": 1499,
-            "rating": 4.43,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "9",
-            "title": "Infinix INBOOK",
-            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
-            "price": 1099,
-            "rating": 4.54,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "10",
-            "title": "HP Pavilion 15-DK1056WM",
-            "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
-            "price": 1099,
-            "rating": 4.43,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
-            "favourite": false
-        },
-        {
-            "id": "11",
-            "title": "perfume Oil",
-            "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
-            "price": 13,
-            "rating": 4.26,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "12",
-            "title": "Brown Perfume",
-            "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
-            "price": 40,
-            "rating": 4,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "13",
-            "title": "Fog Scent Xpressio Perfume",
-            "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
-            "price": 13,
-            "rating": 4.59,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp",
-            "favourite": false
-        },
-        {
-            "id": "14",
-            "title": "Non-Alcoholic Concentrated Perfume Oil",
-            "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
-            "price": 120,
-            "rating": 4.21,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "15",
-            "title": "Eau De Perfume Spray",
-            "description": "Genuine Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
-            "price": 30,
-            "rating": 4.9,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "16",
-            "title": "Hyaluronic Acid Serum",
-            "description": "L'Oréal Paris Revitalift Filler [+Hyaluronic Acid] is clinically proven to reduce the appearance of wrinkles for younger-looking skin.",
-            "price": 19,
-            "rating": 4.66,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "17",
-            "title": "Tree Oil 30ml",
-            "description": "Tea Tree Oil 30ml Pure Natural Essential Oil Therapeutic Grade Oil",
-            "price": 12,
-            "rating": 4.52,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "18",
-            "title": "Beard Oil",
-            "description": "Men's Beard Oil - 30ml - Beard Growth Oil for Men",
-            "price": 23,
-            "rating": 4.65,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "19",
-            "title": "Hair Color Shampoo",
-            "description": "VIP Hair Color Shampoo, 180ml",
-            "price": 12,
-            "rating": 4.21,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "20",
-            "title": "Charcoal Mask",
-            "description": "BIOAQUA Bamboo Charcoal Mask Remove Blackhead Whitening Deep Cleansing Peel Off Mask",
-            "price": 15,
-            "rating": 4.5,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "21",
-            "title": "- Daal Masoor 500 grams",
-            "description": "Fine quality Branded Product Keep in a cool and dry place",
-            "price": 20,
-            "rating": 4.44,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/21/thumbnail.png",
-            "favourite": false
-        },
-        {
-            "id": "22",
-            "title": "Elbow Macaroni - 400 gm",
-            "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
-            "price": 14,
-            "rating": 4.57,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "23",
-            "title": "Orange Essence Food Flavou",
-            "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
-            "price": 14,
-            "rating": 4.85,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "24",
-            "title": "cereals muesli fruit nuts",
-            "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-            "price": 46,
-            "rating": 4.94,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "25",
-            "title": "Gulab Powder 50 Gram",
-            "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
-            "price": 70,
-            "rating": 4.87,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "26",
-            "title": "Plant Hanger For Home",
-            "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
-            "price": 41,
-            "rating": 4.08,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "27",
-            "title": "Flying Wooden Bird",
-            "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
-            "price": 51,
-            "rating": 4.41,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/27/thumbnail.webp",
-            "favourite": false
-        },
-        {
-            "id": "28",
-            "title": "3D Embellishment Art Lamp",
-            "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
-            "price": 20,
-            "rating": 4.82,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg",
-            "favourite": false
-        },
-        {
-            "id": "29",
-            "title": "Handcraft Chinese style",
-            "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
-            "price": 60,
-            "rating": 4.44,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/29/thumbnail.webp",
-            "favourite": false
-        },
-        {
-            "id": "30",
-            "title": "Key Holder",
-            "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-            "price": 30,
-            "rating": 4.92,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg",
-            "favourite": false
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "rating": 4.69,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "favourite": true
+    },
+    {
+      "id": "2",
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "rating": 4.44,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "3",
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "rating": 4.09,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "4",
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "rating": 4.3,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+      "favourite": true
+    },
+    {
+      "id": "5",
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "rating": 4.09,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+      "favourite": true
+    },
+    {
+      "id": "6",
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "rating": 4.57,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+      "favourite": true
+    },
+    {
+      "id": "7",
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "rating": 4.25,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "8",
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 1499,
+      "rating": 4.43,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "9",
+      "title": "Infinix INBOOK",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 1099,
+      "rating": 4.54,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "10",
+      "title": "HP Pavilion 15-DK1056WM",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 1099,
+      "rating": 4.43,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+      "favourite": false
+    },
+    {
+      "id": "11",
+      "title": "perfume Oil",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 13,
+      "rating": 4.26,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "12",
+      "title": "Brown Perfume",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "price": 40,
+      "rating": 4,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "13",
+      "title": "Fog Scent Xpressio Perfume",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "price": 13,
+      "rating": 4.59,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp",
+      "favourite": false
+    },
+    {
+      "id": "14",
+      "title": "Non-Alcoholic Concentrated Perfume Oil",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "price": 120,
+      "rating": 4.21,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "15",
+      "title": "Eau De Perfume Spray",
+      "description": "Genuine Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 30,
+      "rating": 4.9,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "16",
+      "title": "Hyaluronic Acid Serum",
+      "description": "L'Oréal Paris Revitalift Filler [+Hyaluronic Acid] is clinically proven to reduce the appearance of wrinkles for younger-looking skin.",
+      "price": 19,
+      "rating": 4.66,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "17",
+      "title": "Tree Oil 30ml",
+      "description": "Tea Tree Oil 30ml Pure Natural Essential Oil Therapeutic Grade Oil",
+      "price": 12,
+      "rating": 4.52,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "18",
+      "title": "Beard Oil",
+      "description": "Men's Beard Oil - 30ml - Beard Growth Oil for Men",
+      "price": 23,
+      "rating": 4.65,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "19",
+      "title": "Hair Color Shampoo",
+      "description": "VIP Hair Color Shampoo, 180ml",
+      "price": 12,
+      "rating": 4.21,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "20",
+      "title": "Charcoal Mask",
+      "description": "BIOAQUA Bamboo Charcoal Mask Remove Blackhead Whitening Deep Cleansing Peel Off Mask",
+      "price": 15,
+      "rating": 4.5,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "21",
+      "title": "- Daal Masoor 500 grams",
+      "description": "Fine quality Branded Product Keep in a cool and dry place",
+      "price": 20,
+      "rating": 4.44,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/21/thumbnail.png",
+      "favourite": false
+    },
+    {
+      "id": "22",
+      "title": "Elbow Macaroni - 400 gm",
+      "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+      "price": 14,
+      "rating": 4.57,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "23",
+      "title": "Orange Essence Food Flavou",
+      "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+      "price": 14,
+      "rating": 4.85,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "24",
+      "title": "cereals muesli fruit nuts",
+      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+      "price": 46,
+      "rating": 4.94,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "25",
+      "title": "Gulab Powder 50 Gram",
+      "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+      "price": 70,
+      "rating": 4.87,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "26",
+      "title": "Plant Hanger For Home",
+      "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+      "price": 41,
+      "rating": 4.08,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "27",
+      "title": "Flying Wooden Bird",
+      "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+      "price": 51,
+      "rating": 4.41,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/27/thumbnail.webp",
+      "favourite": false
+    },
+    {
+      "id": "28",
+      "title": "3D Embellishment Art Lamp",
+      "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+      "price": 20,
+      "rating": 4.82,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "29",
+      "title": "Handcraft Chinese style",
+      "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+      "price": 60,
+      "rating": 4.44,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/29/thumbnail.webp",
+      "favourite": false
+    },
+    {
+      "id": "30",
+      "title": "Key Holder",
+      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+      "price": 30,
+      "rating": 4.92,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg",
+      "favourite": false
+    },
+    {
+      "id": "a11bf2ca-1d6c-4032-a716-3b185228cb48",
+      "title": "Lamborghini Diecast Model Car",
+      "description": "Product number : Lamborghini Aventador LOSLS501A\n\n\nType of diecast car : diecast already assembled\nThe diecast cars present on this site are 99% metal. Some diecast cars are made of resin and do not have openings such as the vehicles of the Ottomobile or GT Spirit brands. This diecast car is already assembled, it's not a model. So you can offer this Lamborghini Aventador diecast model cars directly without worrying about anything.\n\n\nScale : 1/43\nWhen a diecast car is to scale 1/43, you can tell yourself that 1 centimeter on the diecast represents 43 on the real Lamborghini Aventador. Thus a diecast Lamborghini Aventador at 1/18 scale measures about 25 to 30 centimetres and a diecast car at 1/43 scale measures about 10 centimetres\n\n",
+      "thumbnail": "https://th.bing.com/th/id/R.c76c5080bc4d0bcfd78f72bc5b62c46b?rik=zgk4IHxde0PMJA&riu=http%3a%2f%2fmedia.voiture-miniature.com%2fimages_miniatures%2flook-smart-lamborghini-aventador-svj-roadster-matt-bronze-2019-1.jpg&ehk=lI%2f8cG03MMD6u7C4pl%2b%2brUHGNoGO9niLAOccf5tyieg%3d&risl=&pid=ImgRaw&r=0",
+      "price": 450,
+      "rating": 5,
+      "favourite": "true"
+    },
+    {
+      "id": "a396e39f-27ca-4ff9-895b-a6164596a339",
+      "title": "Lamborghini Diecast Model Car Toy",
+      "description": "bla bla",
+      "thumbnail": "https://bucket.carmodel.com/images/cm-lg/115052_2-1.jpg",
+      "price": 450,
+      "rating": 5,
+      "favourite": false
+    },
+    {
+      "id": "c337479b-0d0c-4488-96f6-1a28654dd30f",
+      "title": "Lamborghini Diecast Model Car Toy",
+      "description": "bla bla",
+      "thumbnail": "https://bucket.carmodel.com/images/cm-lg/115052_2-1.jpg",
+      "price": 450,
+      "rating": 5,
+      "favourite": false
+    }
+  ]
 }

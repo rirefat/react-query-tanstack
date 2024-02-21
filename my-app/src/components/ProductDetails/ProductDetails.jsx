@@ -19,8 +19,8 @@ const ProductDetails = ({ id }) => {
         <div className='my-4'>
             <h3 className=" text-2xl text-center my-6">Product Details</h3>
 
-            <div className="flex items-center justify-center">
-                <div className="product-card border shadow rounded-xl overflow-hidden flex flex-col justify-center items-center">
+            <div className="flex items-center justify-center ">
+                <div className="bg-[#f9f9f9] product-card border shadow rounded-xl overflow-hidden flex flex-col justify-center items-center">
                     <img src={product?.thumbnail} alt="Product Thumbnail" className="object-cover " />
                     <div className="p-4 relative">
                         <h2 className="text-2xl font-semibold mb-4">{product?.title}</h2>
