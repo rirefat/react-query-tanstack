@@ -13,6 +13,7 @@ const App = () => {
         {/* left section */}
         <div className="left-section w-1/2">
           <Products />
+          <hr /><hr />
           <AddProduct />
         </div>
 

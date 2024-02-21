@@ -19,7 +19,7 @@ const Products = () => {
     console.log(products)
     return (
         <div className='m-4 '>
-            <h2 className='my-4 text-2xl'>Available Products</h2>
+            <h2 className='my-6 text-2xl text-center'>Available Products</h2>
             <div className='overflow-y-scroll h-[50vh]'>
                 {
                     products && products.map((product) => (

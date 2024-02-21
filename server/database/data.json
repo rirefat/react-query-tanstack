@@ -6,7 +6,8 @@
             "description": "An apple mobile which is nothing like apple",
             "price": 549,
             "rating": 4.69,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+            "favourite": true
         },
         {
             "id": "2",
@@ -14,7 +15,8 @@
             "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
             "price": 899,
             "rating": 4.44,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "3",
@@ -22,7 +24,8 @@
             "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
             "price": 1249,
             "rating": 4.09,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "4",
@@ -30,7 +33,8 @@
             "description": "OPPO F19 is officially announced on April 2021.",
             "price": 280,
             "rating": 4.3,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+            "favourite": true
         },
         {
             "id": "5",
@@ -38,7 +42,8 @@
             "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
             "price": 499,
             "rating": 4.09,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+            "favourite": true
         },
         {
             "id": "6",
@@ -46,7 +51,8 @@
             "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
             "price": 1749,
             "rating": 4.57,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+            "favourite": true
         },
         {
             "id": "7",
@@ -54,7 +60,8 @@
             "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
             "price": 1499,
             "rating": 4.25,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "8",
@@ -62,7 +69,8 @@
             "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
             "price": 1499,
             "rating": 4.43,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "9",
@@ -70,7 +78,8 @@
             "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
             "price": 1099,
             "rating": 4.54,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "10",
@@ -78,7 +87,8 @@
             "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
             "price": 1099,
             "rating": 4.43,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+            "favourite": false
         },
         {
             "id": "11",
@@ -86,7 +96,8 @@
             "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
             "price": 13,
             "rating": 4.26,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "12",
@@ -94,7 +105,8 @@
             "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
             "price": 40,
             "rating": 4,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "13",
@@ -102,7 +114,8 @@
             "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
             "price": 13,
             "rating": 4.59,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp",
+            "favourite": false
         },
         {
             "id": "14",
@@ -110,55 +123,62 @@
             "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
             "price": 120,
             "rating": 4.21,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "15",
             "title": "Eau De Perfume Spray",
-            "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+            "description": "Genuine Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
             "price": 30,
-            "rating": 4.7,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
+            "rating": 4.9,
+            "thumbnail": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "16",
             "title": "Hyaluronic Acid Serum",
-            "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+            "description": "L'Oréal Paris Revitalift Filler [+Hyaluronic Acid] is clinically proven to reduce the appearance of wrinkles for younger-looking skin.",
             "price": 19,
-            "rating": 4.83,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg"
+            "rating": 4.66,
+            "thumbnail": "https://cdn.dummyjson.com/product-images/16/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "17",
             "title": "Tree Oil 30ml",
-            "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+            "description": "Tea Tree Oil 30ml Pure Natural Essential Oil Therapeutic Grade Oil",
             "price": 12,
             "rating": 4.52,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/17/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "18",
-            "title": "Oil Free Moisturizer 100ml",
-            "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
-            "price": 40,
-            "rating": 4.56,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg"
+            "title": "Beard Oil",
+            "description": "Men's Beard Oil - 30ml - Beard Growth Oil for Men",
+            "price": 23,
+            "rating": 4.65,
+            "thumbnail": "https://cdn.dummyjson.com/product-images/18/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "19",
-            "title": "Skin Beauty Serum.",
-            "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
-            "price": 46,
-            "rating": 4.42,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg"
+            "title": "Hair Color Shampoo",
+            "description": "VIP Hair Color Shampoo, 180ml",
+            "price": 12,
+            "rating": 4.21,
+            "thumbnail": "https://cdn.dummyjson.com/product-images/19/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "20",
-            "title": "Freckle Treatment Cream- 15gm",
-            "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
-            "price": 70,
-            "rating": 4.06,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg"
+            "title": "Charcoal Mask",
+            "description": "BIOAQUA Bamboo Charcoal Mask Remove Blackhead Whitening Deep Cleansing Peel Off Mask",
+            "price": 15,
+            "rating": 4.5,
+            "thumbnail": "https://cdn.dummyjson.com/product-images/20/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "21",
@@ -166,7 +186,8 @@
             "description": "Fine quality Branded Product Keep in a cool and dry place",
             "price": 20,
             "rating": 4.44,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/21/thumbnail.png"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/21/thumbnail.png",
+            "favourite": false
         },
         {
             "id": "22",
@@ -174,7 +195,8 @@
             "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
             "price": 14,
             "rating": 4.57,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/22/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "23",
@@ -182,7 +204,8 @@
             "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
             "price": 14,
             "rating": 4.85,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/23/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "24",
@@ -190,7 +213,8 @@
             "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
             "price": 46,
             "rating": 4.94,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/24/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "25",
@@ -198,7 +222,8 @@
             "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
             "price": 70,
             "rating": 4.87,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/25/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "26",
@@ -206,7 +231,8 @@
             "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
             "price": 41,
             "rating": 4.08,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/26/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "27",
@@ -214,7 +240,8 @@
             "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
             "price": 51,
             "rating": 4.41,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/27/thumbnail.webp"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/27/thumbnail.webp",
+            "favourite": false
         },
         {
             "id": "28",
@@ -222,7 +249,8 @@
             "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
             "price": 20,
             "rating": 4.82,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/28/thumbnail.jpg",
+            "favourite": false
         },
         {
             "id": "29",
@@ -230,7 +258,8 @@
             "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
             "price": 60,
             "rating": 4.44,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/29/thumbnail.webp"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/29/thumbnail.webp",
+            "favourite": false
         },
         {
             "id": "30",
@@ -238,7 +267,8 @@
             "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
             "price": 30,
             "rating": 4.92,
-            "thumbnail": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
+            "thumbnail": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg",
+            "favourite": false
         }
     ]
 }

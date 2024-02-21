@@ -17,16 +17,16 @@ const ProductDetails = ({ id }) => {
     if (isLoading) return <p>Fetching product data...</p>
     return (
         <div className='my-4'>
-            <h3 className=" text-2xl text-center">Product Details</h3>
+            <h3 className=" text-2xl text-center my-6">Product Details</h3>
 
-            <div className="flex items-center justify-center h-[90vh]">
-                <div className="product-card border shadow rounded-xl overflow-hidden">
-                    <img src={product?.thumbnail} alt="Product Thumbnail" />
+            <div className="flex items-center justify-center">
+                <div className="product-card border shadow rounded-xl overflow-hidden flex flex-col justify-center items-center">
+                    <img src={product?.thumbnail} alt="Product Thumbnail" className="object-cover " />
                     <div className="p-4 relative">
-                        <h2 className="text-2xl font-semibold">{product?.title}</h2>
-                        <p className="">Description: {product?.description}</p>
-                        <p>Price: {product?.price}</p>
-                        <p>Rating: {product?.rating}</p>
+                        <h2 className="text-2xl font-semibold mb-4">{product?.title}</h2>
+                        <p className="mb-2">Description: {product?.description}</p>
+                        <p className="mb-2">Price: {product?.price}</p>
+                        <p className="mb-2">Rating: {product?.rating}</p>
 
                         <div className="btns mt-4">
                             <button className="border-2 mr-4 px-4 py-2 rounded-lg">Delete</button>
@@ -34,7 +34,9 @@ const ProductDetails = ({ id }) => {
                         </div>
 
                         <span className="absolute top-5 right-5">
-                            <FaHeart /> <FaRegHeart />
+                            {
+                                product.favourite ? <FaHeart color="red" /> : <FaRegHeart />
+                            }
                         </span>
                     </div>
                 </div>
