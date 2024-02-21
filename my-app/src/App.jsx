@@ -18,7 +18,7 @@ const App = () => {
 
         {/* Right Section */}
         <div className="right-section w-1/2">
-          <ProductDetails />
+          <ProductDetails id={1}/>
         </div>
       </div>
       
