@@ -1,7 +1,30 @@
-export default function App() {
+import AddProduct from "./components/AddProduct/AddProduct";
+import Footer from "./components/Footer/Footer";
+import Navbar from "./components/Navbar/Navbar";
+import ProductDetails from "./components/ProductDetails/ProductDetails";
+import Products from "./components/Products/Products";
+
+const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
-}
+    <>
+      {/* <Navbar /> */}
+
+      <div className="flex flex-wrap">
+        {/* left section */}
+        <div className="left-section w-1/2">
+          <Products />
+          <AddProduct />
+        </div>
+
+        {/* Right Section */}
+        <div className="right-section w-1/2">
+          <ProductDetails />
+        </div>
+      </div>
+      
+      {/* <Footer /> */}
+    </>
+  );
+};
+
+export default App;
