@@ -7,9 +7,9 @@ const AddProduct = () => {
         "title": "",
         "description": "",
         "thumbnail": "",
-        "price": 0,
-        "rating": 0,
-        "favourite": false
+        "price": '',
+        "rating": '',
+        "favourite": ''
     });
 
     const handleChange = (event) => {
@@ -41,9 +41,9 @@ const AddProduct = () => {
             "title": "",
             "description": "",
             "thumbnail": "",
-            "price": 0,
-            "rating": 0,
-            "favourite": false
+            "price": '',
+            "rating": '',
+            "favourite": ''
         })
     }
 
